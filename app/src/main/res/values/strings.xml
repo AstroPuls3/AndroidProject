@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ice Cream Finder</string>f
+    <string name="find_ice_cream">Find Ice Cream</string>
+    <string name="flavors">No Ice Cream Selected</string>
+    <string-array name="ice_cream_makers">
+        <item>tillamook</item>
+        <item>haagendaz</item>
+        <item>ben &amp; jerrys</item>
+        <item>breyers</item>
+        <item>dreyers</item>
+    </string-array>
+</resources>
